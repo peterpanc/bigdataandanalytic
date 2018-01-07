@@ -461,4 +461,7 @@ Consolidate Materials of Big Data, Advance Analytic and AI
     * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Power%20BI)
 
-ต้องการข้อมูลเพิ่มเติม หรือปรีกษาปัญหาด้านข้อมูลต่างๆ เชิญปรึกษาได้ที่ [ppee111@hotmail.com](mail:ppee111@hotmail.com)
+ต้องการข้อมูลเพิ่มเติม หรือปรีกษาปัญหาด้านข้อมูลต่างๆ เชิญปรึกษาได้ที่ <a href="&#x6D;&#x61;i&#x6C;&#x74;&#x6F;:&#x61;&#x64;&#x64;&#x72;&#x65;
+&#115;&#115;&#64;&#101;&#120;&#x61;&#109;&#x70;&#x6C;e&#x2E;&#99;&#111;
+&#109;">&#x61;&#x64;&#x64;&#x72;&#x65;&#115;&#115;&#64;&#101;&#120;&#x61;
+&#109;&#x70;&#x6C;e&#x2E;&#99;&#111;&#109;</a>

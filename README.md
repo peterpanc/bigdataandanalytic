@@ -8,7 +8,7 @@
 - การค้นหา ข้อมูลขนาดใหญ่
 - การวิเคราะห์ข้อมูล คาดการณ์และการเรียนรู้ด้วย Machine Learning
 
-![Picture 1](Images/HighLevel_Architecture_ADS.png)
+![Architecture](Images/HighLevel_Architecture_ADS.png)
 
 ### [อ่านหลักการทำงาน](Documents/Howitworks.md)
 

@@ -1,11 +1,11 @@
 # แหล่งข้อมูลเกี่ยวกับ Microsoft Azure Data Platform
-สำหรับผู้ที่ต้องการเรียนรู้เกี่ยวกับ Microsoft Data Platform ที่นี่จะพยายามรวบรวมข้อมูลสำหรับให้ทุกท่านได้ศึกษา และทดลองใช้ผ่านเอกสารและ materials ต่างๆ
+สำหรับผู้ที่ต้องการเรียนรู้เกี่ยวกับ Microsoft Data Platform ที่นี่จะพยายามรวบรวมข้อมูลสำหรับให้ทุกท่านได้ศึกษาและทดลองใช้ผ่านเอกสารและ materials ต่างๆ
 Consolidate Materials of Big Data, Advance Analytic and AI
 
 ## Repository
 - [General Resources](#general-resources)
 - [Training Resources](#training-resources)
-- [Technical Certifications](#technical-certifications)
+- [Technical Certifications](#สนใจสอบเป็นผู้เชี่ยวชาญ-Technical-Certifications)
 - [Cortana Intelligence Suite](#cortana-intelligence-suite)
 - [Azure Analysis Services](#azure-analysis-services)
 - [Azure Cognitive Services](#azure-cognitive-services)

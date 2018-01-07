@@ -71,7 +71,7 @@ Consolidate Materials of Big Data, Advance Analytic and AI
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
-## Technical Certifications
+## Technical Certificationsxxx
 
 * [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx)
 * [Azure Analytics Certifications Overview](http://learnanalytics.microsoft.com/home/certifications)

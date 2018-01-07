@@ -8,7 +8,7 @@
 - การค้นหา ข้อมูลขนาดใหญ่
 - การวิเคราะห์ข้อมูล คาดการณ์และการเรียนรู้ด้วย Machine Learning
 
-![](Images/HighLevel_Architecture_ADS.png)
+![Picture 1](Images/HighLevel_Architecture_ADS.png)
 
 
 Consolidate Materials of Big Data, Advance Analytic and AI --- 

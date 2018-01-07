@@ -461,19 +461,4 @@ Consolidate Materials of Big Data, Advance Analytic and AI
     * [REST API Documentation](https://msdn.microsoft.com/en-us/library/dn877544.aspx)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Power%20BI)
 
-
-A.Big Data
-
-Avialable soon
-
-B.Advance Analytic
-
-Avialable soon
-
-C.AI
-
-Avialable soon
-
-D.Business Intelligence
-
-Avialable soon
+ต้องการข้อมูลเพิ่มเติม หรือปรีกษาปัญหาด้านข้อมูลต่างๆ เชิญปรึกษาได้ที่ [ppee111@hotmail.com](mail:ppee111@hotmail.com)

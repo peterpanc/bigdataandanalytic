@@ -462,5 +462,4 @@ Consolidate Materials of Big Data, Advance Analytic and AI
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=Power%20BI)
 
 ต้องการข้อมูลเพิ่มเติม หรือปรีกษาปัญหาด้านข้อมูลต่างๆ เชิญปรึกษาได้ที่ <a href="&#x6D;&#x61;i&#x6C;&#x74;&#x6F;:&#x70;&#x70;&#x65;&#x65;&#x31;
-&#x31;&#x31;&#x40;&#x68;&#x6f;&#x74;&#6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x70;&#x70;&#x65;&#x65;&#x31;
-&#x31;&#x31;&#x40;&#x68;&#x6f;&#x74;&#6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>
+&#x31;&#x31;&#x40;&#x68;&#x6f;&#x74;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x70;&#x70;&#x65;&#x65;&#x31;&#x31;&#x31;&#x40;&#x68;&#x6f;&#x74;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a>

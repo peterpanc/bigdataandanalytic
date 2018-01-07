@@ -2,8 +2,7 @@
 สำหรับผู้ที่ต้องการเรียนรู้เกี่ยวกับ Microsoft Data Platform ที่นี่จะพยายามรวบรวมข้อมูลสำหรับให้ทุกท่านได้ศึกษา และทดลองใช้ผ่านเอกสารและ materials ต่างๆ
 Consolidate Materials of Big Data, Advance Analytic and AI
 
-# Big Data Repository
-## Table of Contents
+## Repository
 - [General Resources](#general-resources)
 - [Training Resources](#training-resources)
 - [Technical Certifications](#technical-certifications)
@@ -32,10 +31,13 @@ Consolidate Materials of Big Data, Advance Analytic and AI
 - [Microsoft Power BI](#microsoft-power-bi)
 
 A.Big Data
+Avialable soon
 
 B.Advance Analytic
+Avialable soon
 
 C.AI
+Avialable soon
 
 D.Business Intelligence
-
+Avialable soon

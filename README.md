@@ -1,4 +1,3 @@
-
 # แหล่งข้อมูลเกี่ยวกับ Microsoft Azure Data Platform
 สำหรับผู้ที่ต้องการเรียนรู้เกี่ยวกับ Microsoft Data Platform ที่นี่จะพยายามรวบรวมข้อมูลสำหรับให้ทุกท่านได้ศึกษาและทดลองใช้ผ่านเอกสารและ materials ต่างๆ ที่เกี่ยวข้องกับ บิ๊กดาต้า Big Data, การวิเคราะห์และประมวล ข้อมูล Advance Analytic, ระบบปัญหาประดิษฐ์ Artificial Intelligence หรือ AI และ การแสดงผลและสร้างรายงานข้อมูลผ่าน Business Intelligence หรือ BI
 
@@ -11,7 +10,7 @@
 
 ![Picture 1](Images/HighLevel_Architecture_ADS.png)
 
-## หลักการทำงาน
+### [อ่านหลักการทำงาน](documentss/howitworks.md)
 
 Consolidate Materials of Big Data, Advance Analytic and AI --- 
 @ben :+1: This below links is sharing by Ben Sadeghi - it's great! :pray:

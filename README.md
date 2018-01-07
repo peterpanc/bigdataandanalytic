@@ -8,6 +8,8 @@
 - การค้นหา ข้อมูลขนาดใหญ่
 - การวิเคราะห์ข้อมูล คาดการณ์และการเรียนรู้ด้วย Machine Learning
 
+![](Images/HighLevel_Architecture_ADS.png)
+
 
 Consolidate Materials of Big Data, Advance Analytic and AI --- 
 @ben :+1: This below links is sharing by Ben Sadeghi - it's great! :pray:

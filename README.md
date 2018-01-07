@@ -2,7 +2,7 @@
 สำหรับผู้ที่ต้องการเรียนรู้เกี่ยวกับ Microsoft Data Platform ที่นี่จะพยายามรวบรวมข้อมูลสำหรับให้ทุกท่านได้ศึกษาและทดลองใช้ผ่านเอกสารและ materials ต่างๆ
 Consolidate Materials of Big Data, Advance Analytic and AI
 
-## Repository
+## Repository ไปสู่หัวข้อต่างๆ
 - [General Resources](#general-resources)
 - [Training Resources](#training-resources)
 - [Technical Certifications](#technical-certifications)
@@ -71,7 +71,7 @@ Consolidate Materials of Big Data, Advance Analytic and AI
 * [Videos: Channel 9](https://channel9.msdn.com/)
 * [AWS to Azure Services Comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
-## Technical Certificationsxxx
+## Technical Certifications
 
 * [Microsoft Certifications Overview](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx)
 * [Azure Analytics Certifications Overview](http://learnanalytics.microsoft.com/home/certifications)

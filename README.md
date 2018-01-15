@@ -10,8 +10,7 @@
 
 ![Architecture](Images/HighLevel_Architecture_ADS.png)
 
-### [อ่านหลักการทำงาน](Documents/Howitworks.md) หรือ 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpeterpanc%2Fbigdataandanalytic%2Fmaster%2FTemplate%2FJSON%2FARMCreateResourceGroup.json"><img src="http://azuredeploy.net/deploybutton.png"></a>
+### [อ่านหลักการทำงาน](Documents/Howitworks.md) หรือ  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpeterpanc%2Fbigdataandanalytic%2Fmaster%2FTemplate%2FJSON%2FARMCreateResourceGroup.json"><img src="http://azuredeploy.net/deploybutton.png"></a>
 
 Consolidate Materials of Big Data, Advance Analytic and AI --- 
 @ben :+1: This below links is sharing by Ben Sadeghi - it's great! :pray:

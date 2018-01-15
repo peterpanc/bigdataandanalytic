@@ -1,17 +1,5 @@
-Hello World App
-====================
-Simple Hello World demo which shows that you can use the Azure Deploy Button without a custom Azure Resource Manager template (azuredeploy.json).
-
-<a href="https://azuredeploy.net/" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
-
-<a href="https://azuredeploy.net/?repository=https://github.com/user/repo" target="_blank">
-    <img src="https://azuredeploy.net/deploybutton.png"/>
-</a>
-
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
-
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/peterpanc/bigdataandanalytic?ptmpl==parameters.azuredeploy.json)
+Deploy All Components for Big Data HOL by ARM
+==============================================
+Azure Deploy Button a custom Azure Resource Manager template. This task will create HDI, Azure SQL Server, Azure Analysis Service, Azure ML, Storage, Network, etc.
 
 
-
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/shrimpy/ArmParamterTemplateTest?ptmpl=https://raw.githubusercontent.com/shrimpy/ArmParamterTemplateTest/master/parameters.azuredeploy.json)

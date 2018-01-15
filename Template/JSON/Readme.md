@@ -4,14 +4,14 @@ Simple Hello World demo which shows that you can use the Azure Deploy Button wit
 
 <a href="https://azuredeploy.net/" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
 
+<a href="https://azuredeploy.net/?repository=https://github.com/user/repo" target="_blank">
+    <img src="https://azuredeploy.net/deploybutton.png"/>
+</a>
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/peterpanc/bigdataandanalytic?ptmpl==parameters.azuredeploy.json)
 
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/shrimpy/ArmParamterTemplateTest?ptmpl=https://raw.githubusercontent.com/shrimpy/ArmParamterTemplateTest/master/parameters.azuredeploy.json)
 
-let armTemplateUri = 'https://raw.githubusercontent.com/noelbundick/arm-samples/master/1-storageaccount/template.json';
-let deployLink = `https://portal.azure.com/#create/Microsoft.Template/uri/${encodeURIComponent(armTemplateUri)}`;
-window.location = deployLink;
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/shrimpy/ArmParamterTemplateTest?ptmpl=https://raw.githubusercontent.com/shrimpy/ArmParamterTemplateTest/master/parameters.azuredeploy.json)
